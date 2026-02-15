@@ -43,7 +43,7 @@ Abaixo está o gráfico gerado a partir da análise:
 ## 🚀 Como Executar o Projeto
 
 1. Clone o repositório: git clone https://github.com/LucasCHabib/analise-desemprego-brasil.git
-2. Instale as dependências: pip install pandas, matplotlib, re
+2. Instale as dependências: pip install pandas matplotlib re
 3. Execute o notebook: jupyter notebook
 
 ---
