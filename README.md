@@ -4,7 +4,7 @@
 
 Este projeto foi desenvolvido com o objetivo de praticar análise de dados utilizando informações reais sobre a taxa de desemprego no Brasil.
 
-A ideia foi trabalhar com dados públicos do IBGE para entender como o desemprego evoluiu ao longo do tempo e aplicar técnicas de tratamento e visualização de dados em Python.
+A proposta foi trabalhar com dados públicos do IBGE para entender como o desemprego evoluiu ao longo do tempo, aplicando técnicas de tratamento, organização e visualização de dados em Python.
 
 ---
 
@@ -36,7 +36,11 @@ A ideia foi trabalhar com dados públicos do IBGE para entender como o desempreg
 
 ## 📈 Resultado
 
-A utilização da média móvel ajudou a reduzir variações mensais muito pequenas e deixou mais clara a tendência geral da taxa de desemprego ao longo dos anos.
+O gráfico evidenciou um certo aumento na taxa de desemprego durante o período da pandemia de COVID-19, refletindo o impacto econômico causado pela paralisação de atividades e instabilidade no mercado de trabalho.
+
+No período pós-pandemia, observou-se uma queda expressiva na taxa de desemprego, indicando uma recuperação gradual da economia e do mercado de trabalho.
+
+A utilização da média móvel ajudou a reduzir oscilações mensais e tornou essa dinâmica mais clara, facilitando a identificação da tendência geral ao longo dos anos.
 
 ![Tendência da Taxa de Desemprego](grafico_tendencia.png)
 
@@ -47,7 +51,7 @@ A utilização da média móvel ajudou a reduzir variações mensais muito peque
 - Trabalhar com dados reais exige organização e atenção aos detalhes  
 - Pequenas variações podem distorcer a interpretação se não forem tratadas corretamente  
 - Visualização de dados é tão importante quanto a análise  
-- Estruturar um projeto para portfólio exige clareza e organização  
+- Contextualizar os resultados com acontecimentos econômicos melhora a qualidade da interpretação  
 
 ---
 
