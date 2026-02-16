@@ -61,5 +61,4 @@ A utilização da média móvel ajudou a reduzir variações mensais muito peque
 
 ## 👨‍💻 Autor
 
-Lucas Habib
-Estudando e desenvolvendo habilidades práticas em Análise de Dados.
+Lucas Habib - Estudando e desenvolvendo habilidades práticas em Análise de Dados.
